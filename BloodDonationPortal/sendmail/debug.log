@@ -1,0 +1,249 @@
+21-07-04 23:57:46 ** --- MESSAGE BEGIN ---
+21-07-04 23:57:46 ** To: harshapple40@gmail.com
+21-07-04 23:57:46 ** Subject: 763113
+21-07-04 23:57:46 ** From: covid.mailings@gmail.com
+21-07-04 23:57:46 ** MIME-Version 1.0
+21-07-04 23:57:46 ** Content-Type: text/html; charset=utf-8
+21-07-04 23:57:46 ** 
+21-07-04 23:57:46 ** OTP for verification 763113
+21-07-04 23:57:46 ** --- MESSAGE END ---
+21-07-04 23:57:46 ** Connecting to smtp.gmail.com:465
+21-07-04 23:57:47 ** Connected.
+21-07-04 23:57:47 << 220 smtp.gmail.com ESMTP q3sm9947486pfj.89 - gsmtp<EOL>
+21-07-04 23:57:47 >> EHLO localhost<EOL>
+21-07-04 23:57:47 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-04 23:57:47 ** Authenticating as covid.mailings@gmail.com
+21-07-04 23:57:47 >> AUTH LOGIN<EOL>
+21-07-04 23:57:47 << 334 VXNlcm5hbWU6<EOL>
+21-07-04 23:57:47 >> Y292aWQubWFpbGluZ3NAZ21haWwuY29t<EOL>
+21-07-04 23:57:47 << 334 UGFzc3dvcmQ6<EOL>
+21-07-04 23:57:47 >> aGFyc2hAMTIz<EOL>
+21-07-04 23:57:48 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials q3sm9947486pfj.89 - gsmtp<EOL>
+21-07-04 23:57:48 ** Disconnecting from smtp.gmail.com:465
+21-07-04 23:57:48 ** Disconnected.
+21-07-04 23:57:48 ** Disconnected.
+21-07-04 23:57:48 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials q3sm9947486pfj.89 - gsmtp<EOL>
+21-07-05 00:00:16 ** --- MESSAGE BEGIN ---
+21-07-05 00:00:16 ** To: harshapple40@gmail.com
+21-07-05 00:00:16 ** Subject: 962154
+21-07-05 00:00:16 ** From: covid.mailings@gmail.com
+21-07-05 00:00:16 ** MIME-Version 1.0
+21-07-05 00:00:16 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:00:16 ** 
+21-07-05 00:00:16 ** OTP for verification 962154
+21-07-05 00:00:16 ** --- MESSAGE END ---
+21-07-05 00:00:16 ** Connecting to smtp.gmail.com:465
+21-07-05 00:00:16 ** Connected.
+21-07-05 00:00:16 << 220 smtp.gmail.com ESMTP f2sm9522310pfe.23 - gsmtp<EOL>
+21-07-05 00:00:16 >> EHLO localhost<EOL>
+21-07-05 00:00:17 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:00:17 ** Authenticating as covid.mailings@gmail.com
+21-07-05 00:00:17 >> AUTH LOGIN<EOL>
+21-07-05 00:00:17 << 334 VXNlcm5hbWU6<EOL>
+21-07-05 00:00:17 >> Y292aWQubWFpbGluZ3NAZ21haWwuY29t<EOL>
+21-07-05 00:00:17 << 334 UGFzc3dvcmQ6<EOL>
+21-07-05 00:00:17 >> aGFyc2hAMTIz<EOL>
+21-07-05 00:00:17 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials f2sm9522310pfe.23 - gsmtp<EOL>
+21-07-05 00:00:17 ** Disconnecting from smtp.gmail.com:465
+21-07-05 00:00:17 ** Disconnected.
+21-07-05 00:00:17 ** Disconnected.
+21-07-05 00:00:17 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials f2sm9522310pfe.23 - gsmtp<EOL>
+21-07-05 00:01:01 ** --- MESSAGE BEGIN ---
+21-07-05 00:01:01 ** To: harshsam80@gmail.com
+21-07-05 00:01:01 ** Subject: 482045
+21-07-05 00:01:01 ** From: covid.mailings@gmail.com
+21-07-05 00:01:01 ** MIME-Version 1.0
+21-07-05 00:01:01 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:01:01 ** 
+21-07-05 00:01:01 ** OTP for verification 482045
+21-07-05 00:01:01 ** --- MESSAGE END ---
+21-07-05 00:01:01 ** Connecting to smtp.gmail.com:465
+21-07-05 00:01:02 ** Connected.
+21-07-05 00:01:02 << 220 smtp.gmail.com ESMTP c24sm10111438pfn.86 - gsmtp<EOL>
+21-07-05 00:01:02 >> EHLO localhost<EOL>
+21-07-05 00:01:02 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:01:02 ** Authenticating as covid.mailings@gmail.com
+21-07-05 00:01:02 >> AUTH LOGIN<EOL>
+21-07-05 00:01:02 << 334 VXNlcm5hbWU6<EOL>
+21-07-05 00:01:02 >> Y292aWQubWFpbGluZ3NAZ21haWwuY29t<EOL>
+21-07-05 00:01:03 << 334 UGFzc3dvcmQ6<EOL>
+21-07-05 00:01:03 >> aGFyc2hAMTIz<EOL>
+21-07-05 00:01:03 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials c24sm10111438pfn.86 - gsmtp<EOL>
+21-07-05 00:01:03 ** Disconnecting from smtp.gmail.com:465
+21-07-05 00:01:03 ** Disconnected.
+21-07-05 00:01:03 ** Disconnected.
+21-07-05 00:01:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c24sm10111438pfn.86 - gsmtp<EOL>
+21-07-05 00:04:30 ** --- MESSAGE BEGIN ---
+21-07-05 00:04:30 ** To: harshsam80@gmail.com
+21-07-05 00:04:30 ** Subject: 319630
+21-07-05 00:04:30 ** From: covid.mailings@gmail.com
+21-07-05 00:04:30 ** MIME-Version 1.0
+21-07-05 00:04:30 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:04:30 ** 
+21-07-05 00:04:30 ** OTP for verification 319630
+21-07-05 00:04:30 ** --- MESSAGE END ---
+21-07-05 00:04:30 ** Connecting to smtp.gmail.com:587
+21-07-05 00:04:30 ** Disconnected.
+21-07-05 00:04:30 ** Disconnected.
+21-07-05 00:04:30 ** Disconnected.
+21-07-05 00:04:30 ** Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+21-07-05 00:06:23 ** --- MESSAGE BEGIN ---
+21-07-05 00:06:23 ** To: harshsam80@gmail.com
+21-07-05 00:06:23 ** Subject: 584708
+21-07-05 00:06:23 ** From: covid.mailings@gmail.com
+21-07-05 00:06:23 ** MIME-Version 1.0
+21-07-05 00:06:23 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:06:23 ** 
+21-07-05 00:06:23 ** OTP for verification 584708
+21-07-05 00:06:23 ** --- MESSAGE END ---
+21-07-05 00:06:23 ** Connecting to smtp.gmail.com:587
+21-07-05 00:06:24 ** Disconnected.
+21-07-05 00:06:24 ** Disconnected.
+21-07-05 00:06:24 ** Disconnected.
+21-07-05 00:06:24 ** Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+21-07-05 00:08:58 ** --- MESSAGE BEGIN ---
+21-07-05 00:08:58 ** To: harshsam80@gmail.com
+21-07-05 00:08:58 ** Subject: 540128
+21-07-05 00:08:58 ** From: covid.mailings@gmail.com
+21-07-05 00:08:58 ** MIME-Version 1.0
+21-07-05 00:08:58 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:08:58 ** 
+21-07-05 00:08:58 ** OTP for verification 540128
+21-07-05 00:08:58 ** --- MESSAGE END ---
+21-07-05 00:08:58 ** Connecting to smtp.gmail.com:587
+21-07-05 00:08:58 ** Disconnected.
+21-07-05 00:08:58 ** Disconnected.
+21-07-05 00:08:58 ** Disconnected.
+21-07-05 00:08:58 ** Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+21-07-05 00:21:12 ** --- MESSAGE BEGIN ---
+21-07-05 00:21:12 ** To: harshsam80@gmail.com
+21-07-05 00:21:12 ** Subject: 916885
+21-07-05 00:21:12 ** From: covid.mailings@gmail.com
+21-07-05 00:21:12 ** MIME-Version 1.0
+21-07-05 00:21:12 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:21:12 ** 
+21-07-05 00:21:12 ** OTP for verification 916885
+21-07-05 00:21:12 ** --- MESSAGE END ---
+21-07-05 00:21:12 ** Connecting to smtp.gmail.com:587
+21-07-05 00:21:13 ** Disconnected.
+21-07-05 00:21:13 ** Disconnected.
+21-07-05 00:21:13 ** Disconnected.
+21-07-05 00:21:13 ** Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+21-07-05 00:24:32 ** --- MESSAGE BEGIN ---
+21-07-05 00:24:32 ** To: harshsam80@gmail.com
+21-07-05 00:24:32 ** Subject: 891242
+21-07-05 00:24:32 ** From: covid.mailings@gmail.com
+21-07-05 00:24:32 ** MIME-Version 1.0
+21-07-05 00:24:32 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:24:32 ** 
+21-07-05 00:24:32 ** OTP for verification 891242
+21-07-05 00:24:32 ** --- MESSAGE END ---
+21-07-05 00:24:32 ** Connecting to smtp.gmail.com:587
+21-07-05 00:24:32 ** Disconnected.
+21-07-05 00:24:32 ** Disconnected.
+21-07-05 00:24:32 ** Disconnected.
+21-07-05 00:24:32 ** Error connecting with SSL.<EOL>Error connecting with SSL.<EOL>error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+21-07-05 00:31:05 ** --- MESSAGE BEGIN ---
+21-07-05 00:31:05 ** To: harshsam80@gmail.com
+21-07-05 00:31:05 ** Subject: 969747
+21-07-05 00:31:05 ** From: covid.mailings@gmail.com
+21-07-05 00:31:05 ** MIME-Version 1.0
+21-07-05 00:31:05 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:31:05 ** 
+21-07-05 00:31:05 ** OTP for verification 969747
+21-07-05 00:31:05 ** --- MESSAGE END ---
+21-07-05 00:31:05 ** Connecting to smtp.gmail.com:587
+21-07-05 00:31:05 ** Connected.
+21-07-05 00:31:06 << 220 smtp.gmail.com ESMTP 31sm162282pgu.17 - gsmtp<EOL>
+21-07-05 00:31:06 >> EHLO localhost<EOL>
+21-07-05 00:31:06 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:31:06 ** Authenticating as covid.mailings@gmail.com
+21-07-05 00:31:06 >> STARTTLS<EOL>
+21-07-05 00:31:06 << 220 2.0.0 Ready to start TLS<EOL>
+21-07-05 00:31:06 >> EHLO localhost<EOL>
+21-07-05 00:31:07 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:31:07 >> AUTH LOGIN<EOL>
+21-07-05 00:31:07 << 334 VXNlcm5hbWU6<EOL>
+21-07-05 00:31:07 >> Y292aWQubWFpbGluZ3NAZ21haWwuY29t<EOL>
+21-07-05 00:31:07 << 334 UGFzc3dvcmQ6<EOL>
+21-07-05 00:31:07 >> aGFyc2hAMTIz<EOL>
+21-07-05 00:31:07 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials 31sm162282pgu.17 - gsmtp<EOL>
+21-07-05 00:31:07 ** Disconnecting from smtp.gmail.com:587
+21-07-05 00:31:07 ** Disconnected.
+21-07-05 00:31:07 ** Disconnected.
+21-07-05 00:31:07 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials 31sm162282pgu.17 - gsmtp<EOL>
+21-07-05 00:32:10 ** --- MESSAGE BEGIN ---
+21-07-05 00:32:10 ** To: harshsam80@gmail.com
+21-07-05 00:32:10 ** Subject: 247710
+21-07-05 00:32:10 ** From: covid.mailings@gmail.com
+21-07-05 00:32:10 ** MIME-Version 1.0
+21-07-05 00:32:10 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:32:10 ** 
+21-07-05 00:32:10 ** OTP for verification 247710
+21-07-05 00:32:10 ** --- MESSAGE END ---
+21-07-05 00:32:10 ** Connecting to smtp.gmail.com:587
+21-07-05 00:32:10 ** Connected.
+21-07-05 00:32:10 << 220 smtp.gmail.com ESMTP t9sm11470270pjs.50 - gsmtp<EOL>
+21-07-05 00:32:10 >> EHLO localhost<EOL>
+21-07-05 00:32:11 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:32:11 ** Authenticating as covid.mailings@gmail.com
+21-07-05 00:32:11 >> STARTTLS<EOL>
+21-07-05 00:32:11 << 220 2.0.0 Ready to start TLS<EOL>
+21-07-05 00:32:11 >> EHLO localhost<EOL>
+21-07-05 00:32:11 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:32:11 >> AUTH LOGIN<EOL>
+21-07-05 00:32:12 << 334 VXNlcm5hbWU6<EOL>
+21-07-05 00:32:12 >> Y292aWQubWFpbGluZ3NAZ21haWwuY29t<EOL>
+21-07-05 00:32:12 << 334 UGFzc3dvcmQ6<EOL>
+21-07-05 00:32:12 >> aGFyc2hAMTIz<EOL>
+21-07-05 00:32:12 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials t9sm11470270pjs.50 - gsmtp<EOL>
+21-07-05 00:32:12 ** Disconnecting from smtp.gmail.com:587
+21-07-05 00:32:12 ** Disconnected.
+21-07-05 00:32:12 ** Disconnected.
+21-07-05 00:32:12 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials t9sm11470270pjs.50 - gsmtp<EOL>
+21-07-05 00:35:03 ** --- MESSAGE BEGIN ---
+21-07-05 00:35:03 ** To: harshsam80@gmail.com
+21-07-05 00:35:03 ** Subject: 789527
+21-07-05 00:35:03 ** From: covid.mailings@gmail.com
+21-07-05 00:35:03 ** MIME-Version 1.0
+21-07-05 00:35:03 ** Content-Type: text/html; charset=utf-8
+21-07-05 00:35:03 ** 
+21-07-05 00:35:03 ** OTP for verification 789527
+21-07-05 00:35:03 ** --- MESSAGE END ---
+21-07-05 00:35:03 ** Connecting to smtp.gmail.com:587
+21-07-05 00:35:03 ** Connected.
+21-07-05 00:35:03 << 220 smtp.gmail.com ESMTP f6sm9601328pfj.28 - gsmtp<EOL>
+21-07-05 00:35:03 >> EHLO localhost<EOL>
+21-07-05 00:35:03 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:35:03 ** Authenticating as covid.mailings@gmail.com
+21-07-05 00:35:03 >> STARTTLS<EOL>
+21-07-05 00:35:04 << 220 2.0.0 Ready to start TLS<EOL>
+21-07-05 00:35:04 >> EHLO localhost<EOL>
+21-07-05 00:35:04 << 250-smtp.gmail.com at your service, [122.161.67.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-07-05 00:35:04 >> AUTH LOGIN<EOL>
+21-07-05 00:35:04 << 334 VXNlcm5hbWU6<EOL>
+21-07-05 00:35:04 >> Y292aWQubWFpbGluZ3NAZ21haWwuY29t<EOL>
+21-07-05 00:35:04 << 334 UGFzc3dvcmQ6<EOL>
+21-07-05 00:35:04 >> aGFyc2hAMTIz<EOL>
+21-07-05 00:35:05 << 235 2.7.0 Accepted<EOL>
+21-07-05 00:35:05 >> MAIL FROM: <covid.mailings@gmail.com><EOL>
+21-07-05 00:35:05 << 250 2.1.0 OK f6sm9601328pfj.28 - gsmtp<EOL>
+21-07-05 00:35:05 >> RCPT TO: <harshsam80@gmail.com><EOL>
+21-07-05 00:35:05 << 250 2.1.5 OK f6sm9601328pfj.28 - gsmtp<EOL>
+21-07-05 00:35:05 >> DATA<EOL>
+21-07-05 00:35:06 << 354  Go ahead f6sm9601328pfj.28 - gsmtp<EOL>
+21-07-05 00:35:06 >> Date: Mon, 5 Jul 2021 00:35:06 +0530<EOL>
+21-07-05 00:35:06 >> To: harshsam80@gmail.com<EOL>
+21-07-05 00:35:06 >> Subject: 789527<EOL>
+21-07-05 00:35:06 >> From: covid.mailings@gmail.com<EOL>
+21-07-05 00:35:06 >> MIME-Version 1.0<EOL>
+21-07-05 00:35:06 >> Content-Type: text/html; charset=utf-8<EOL>
+21-07-05 00:35:06 >> <EOL>
+21-07-05 00:35:06 >> OTP for verification 789527<EOL>
+21-07-05 00:35:06 >> .<EOL>
+21-07-05 00:35:06 << 250 2.0.0 OK  1625425512 f6sm9601328pfj.28 - gsmtp<EOL>
+21-07-05 00:35:06 >> QUIT<EOL>
+21-07-05 00:35:07 << 221 2.0.0 closing connection f6sm9601328pfj.28 - gsmtp<EOL>
+21-07-05 00:35:07 ** Disconnecting from smtp.gmail.com:587
+21-07-05 00:35:07 ** Disconnected.
+21-07-05 00:35:07 ** Disconnected.
